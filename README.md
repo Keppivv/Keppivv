@@ -1,1 +1,1 @@
-Making some stuff with Python and Roblox Lua :)
+I think the phrase is "let him cook"
